@@ -1,0 +1,4 @@
+mongodb+srv://vamshi:vamshi5421@cluster0.rchvf.mongodb.net/user?retryWrites=true&w=majorityaca
+
+
+nohup ~/Development/mongo/mongod --dbpath=~/Development/mongo/.db &
