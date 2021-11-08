@@ -2,15 +2,14 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    position: relative;
+    
 }
 
 .form {
+    text-align: center;
+    
+    
 
-    display: block;
-    position: absolute;
-    top: 50;
-    left: 50;
-    transform: translate(-50%,-50%);
+    
 
 }
